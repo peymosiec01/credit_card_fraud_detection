@@ -30,5 +30,13 @@ To run the code:
 1. Clone the repository to your local machine.
 2. Open the `credit_card_fraud_detection.ipynb` notebook using Jupyter Notebook or any compatible environment.
 3. Run the code cells sequentially to train and evaluate the machine learning model.
+   
+## Acknowledgements
+
+- The SMS Spam Collection dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data).
+- Libraries used: NumPy, pandas, scikit-learn, spaCy, seaborn, Matplotlib, imbalanced-learn.
+
+---
+
 
 Feel free to explore and experiment with the code to further enhance the model's performance or adapt it to your specific use case. If you encounter any issues or have any questions, please don't hesitate to reach out.
